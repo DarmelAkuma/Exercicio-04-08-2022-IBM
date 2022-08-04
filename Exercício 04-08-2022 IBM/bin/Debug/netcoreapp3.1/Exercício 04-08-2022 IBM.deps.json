@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercício 04-08-2022 IBM/1.0.0": {
+        "runtime": {
+          "Exercício 04-08-2022 IBM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício 04-08-2022 IBM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
